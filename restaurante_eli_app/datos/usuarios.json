@@ -1,0 +1,26 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Elizabeth",
+        "correo": "admin@sazonmesa.com",
+        "usuario": "administracion",
+        "clave": "admin12",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0607080910",
+        "nombre": "Carlos",
+        "correo": "carlos@sazonmesa.com",
+        "usuario": "carlos",
+        "clave": "123456",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1004867360",
+        "nombre": "ELIWI",
+        "correo": "eliwi@sazonmesa.com",
+        "usuario": "eliwi",
+        "clave": "123456",
+        "rol": "Cliente"
+    }
+]
